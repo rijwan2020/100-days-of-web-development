@@ -1,3 +1,9 @@
 100 Days of Web Development = https://100daysofwebdev.com/
 
 MDN HTML Reference = https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Color overview = https://github.com/academind/100-days-of-web-development/blob/02-html-css-basics/extra-files/colors.pdf
+
+VS Code extension = Prettier
+
+More about VS Code = https://academind.com/tutorials/visual-studio-code-introduction/
