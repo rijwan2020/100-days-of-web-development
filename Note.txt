@@ -7,3 +7,5 @@ Color overview = https://github.com/academind/100-days-of-web-development/blob/0
 VS Code extension = Prettier
 
 More about VS Code = https://academind.com/tutorials/visual-studio-code-introduction/
+
+Image in Day 5: https://github.com/academind/100-days-of-web-development/blob/02-html-css-basics/extra-files/challenges-trophy.jpg
