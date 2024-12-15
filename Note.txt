@@ -13,3 +13,9 @@ Image in Day 5: https://github.com/academind/100-days-of-web-development/blob/02
 MDN HTML Website Structure: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
 
 More about inline Element: https://developer.mozilla.org/en-US/docs/Glossary/Inline-level_content
+
+Finished Website Preview: https://github.com/academind/100-days-of-web-development/blob/04-html-css-first-practice-summary/extra-files/finished-site.jpg
+
+HTMl & CSS Summary: https://github.com/academind/100-days-of-web-development/blob/04-html-css-first-practice-summary/extra-files/html-css-basics-summary.pdf
+
+Logo Image day 9: https://github.com/academind/100-days-of-web-development/blob/04-html-css-first-practice-summary/extra-files/html-css.png
