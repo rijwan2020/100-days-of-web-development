@@ -19,3 +19,16 @@ Finished Website Preview: https://github.com/academind/100-days-of-web-developme
 HTMl & CSS Summary: https://github.com/academind/100-days-of-web-development/blob/04-html-css-first-practice-summary/extra-files/html-css-basics-summary.pdf
 
 Logo Image day 9: https://github.com/academind/100-days-of-web-development/blob/04-html-css-first-practice-summary/extra-files/html-css.png
+
+Netlify Drop: https://app.netlify.com/drop
+
+Deploy using netlify drop
+
+- Open https://app.netlify.com/drop
+- Drag & drop folder project (html, css, js)
+- Click generated url
+- enter password (this show belom url link)
+
+Site in netlify drop live just 1 hour
+
+Generate favicon: https://favicon.io/
