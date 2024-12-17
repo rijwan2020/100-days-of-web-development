@@ -32,3 +32,7 @@ Deploy using netlify drop
 Site in netlify drop live just 1 hour
 
 Generate favicon: https://favicon.io/
+
+Google fonts: https://fonts.google.com/
+Font used in day 15: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/google-fonts-link.txt
+Flexbox theory code: https://github.com/academind/100-days-of-web-development/tree/07-html-css-layouts-position/code/04-flexbox-intro
