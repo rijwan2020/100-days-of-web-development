@@ -39,3 +39,5 @@ Flexbox theory code: https://github.com/academind/100-days-of-web-development/tr
 
 Ocean logo: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/ocean.jpg
 Position theory code: https://github.com/academind/100-days-of-web-development/tree/07-html-css-layouts-position/code/07-understanding-position
+
+Highlight section image: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/cities.zip
