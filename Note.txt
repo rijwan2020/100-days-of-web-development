@@ -43,3 +43,7 @@ Position theory code: https://github.com/academind/100-days-of-web-development/t
 Highlight section image: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/cities.zip
 
 Social Media Icon: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/icons.zip
+
+City images: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/cities-page-2.zip
+
+Destination list html code: https://github.com/academind/100-days-of-web-development/blob/07-html-css-layouts-position/extra-files/list-destinations.html
